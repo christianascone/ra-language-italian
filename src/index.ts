@@ -61,11 +61,11 @@ const italianMessages: TranslationMessages = {
         },
         input: {
             file: {
-                upload_several: 'Trascina alcuni file per caricarli, o clicca per selezionarne uno.',
+                upload_several: 'Trascina i file per caricarli, o clicca per selezionarne uno.',
                 upload_single: 'Trascina un file per caricarlo, o clicca per selezionarlo.',
             },
             image: {
-                upload_several: 'Trascina alcune immagini per caricarle, o clicca per selezionarne una.',
+                upload_several: 'Trascina le immagini per caricarle, o clicca per selezionarne una.',
                 upload_single: 'Trascina un\'immagine per caricarla, o clicca per selezionarla.',
             },
             references: {
