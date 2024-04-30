@@ -33,7 +33,7 @@
   "types": "dist/cjs/index.d.ts",
   "scripts": {
     "prepack": "npm run build",
-    "build": "yarn run build-cjs && yarn run build-esm",
+    "build": "npm run build-cjs && npm run build-esm",
     "build-cjs": "rimraf ./dist/cjs && tsc --outDir dist/cjs",
     "build-esm": "rimraf ./dist/esm && tsc --outDir dist/esm --module es2015",
     "watch": "tsc --outDir dist/esm --module es2015 --watch"
