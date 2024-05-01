@@ -1,7 +1,7 @@
 {
   "name": "@christianascone/ra-language-italian",
   "description": "Italian translations for react-admin. A frontend Framework for building admin applications running in the browser on top of REST/GraphQL services, using ES6, React and Material Design",
-  "version": "0.0.1",
+  "version": "4.16.0",
   "author": "Christian Ascone",
   "bugs": {
     "url": "https://github.com/christianascone/ra-language-italian/issues"
